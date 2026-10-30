@@ -1,0 +1,32 @@
+[
+    {
+        "date": "11-10-2026",
+        "category": "Food",
+        "title": "Milk",
+        "amount": 10.0
+    },
+    {
+        "date": "12-10-2026",
+        "category": "Food",
+        "title": "Dahi",
+        "amount": 20.0
+    },
+    {
+        "date": "13-10-2026",
+        "category": "Electronic",
+        "title": "Power Bank",
+        "amount": 800.0
+    },
+    {
+        "date": "17-10-2026",
+        "category": "Cloths",
+        "title": "Socks",
+        "amount": 100.0
+    },
+    {
+        "date": "18-10-2026",
+        "category": "Food",
+        "title": "Orange",
+        "amount": 20.0
+    }
+]
